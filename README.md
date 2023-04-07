@@ -172,11 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Carl Aquilina - [Email](https://twitter.com/zombyripper) - carl@customcodesign.com
-
-Linked In: [https://www.linkedin.com/in/carlaquilina/](https://www.linkedin.com/in/carlaquilina/)
-
-Project Link: [https://github.com/carlaquilina/quiz-cli](https://github.com/carlaquilina/quiz-cli)
+Carl Aquilina - [Email](carl@customcodesign.com) - [Twitter](https://twitter.com/zombyripper) - [LinkedIn](https://www.linkedin.com/in/carlaquilina/) - [Github](https://github.com/carlaquilina/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
