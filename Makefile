@@ -11,4 +11,8 @@ PHONY: quiz
 quiz:
 	go run main.go exam
 
+PHONY: test
+test:
+	go test -race -cover  ./... 
+
 	
