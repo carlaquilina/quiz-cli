@@ -10,8 +10,12 @@ import (
 
 // handleStats handles the GET /stats endpoint, which returns statistics about the quiz results.
 // The response body is a JSON-encoded object with the following fields:
-//   - totalAttempts: the total number of times the quiz has been attempted (integer)
+//   - totalQuizzesTaken: the total number of times the quiz has been attempted (integer)
+//   - userRank: the rank of the current user (integer)
+//   - userScore: the score of the current user (integer)
+//   - userPercentage: the percentage of the current user's score out of the total amount of score (float64)
 //   - averageScore: the average score of all users who have taken the quiz (float64)
+//   - better: the percentage of users that the current user is better than (float64)
 //
 // The function returns a HTTP status code of 200 on success, and a HTTP status code of 500 on failure.
 // Handler function for /stats
