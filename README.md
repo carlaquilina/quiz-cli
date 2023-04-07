@@ -93,8 +93,8 @@ The Quiz CLI project is a great example of how to build a simple yet powerful CL
 
 This project is built with Golang and utilizes the Cobra CLI library for command-line interface functionality. It also makes use of the HTTP package for network communication and the encoding/json package for JSON decoding.
 
-- [![Golang](/images/Go.svg)![Golang](https://img.shields.io/badge/Golang-1.19.5-6AD8E6)](https://go.dev/doc/devel/release#go1.19)
-- [![Golang](/images/Go.svg)![Golang](https://img.shields.io/badge/Cobra-1.19.5-EBD263)](https://cobra.dev/)
+- [![Golang](/images/Go.svg)![Golang](https://img.shields.io/badge/Golang-v1.19.5-6AD8E6)](https://go.dev/doc/devel/release#go1.19)
+- [![Cobra](/images/Cobra.svg)![Cobra](https://img.shields.io/badge/Cobra-v1.6.1-EBD263)](https://cobra.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +102,7 @@ This project is built with Golang and utilizes the Cobra CLI library for command
 
 ## Getting Started
 
-You will need to make sure you have Go installed and cobra.
+You will need to make sure you have Go and Cobra installed.
 
 - Run the api
 
@@ -134,11 +134,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Add Changelog
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+  - [ ] Maltese
+  - [ ] Italian
 
 See the [open issues](https://github.com/carlaquilina/quiz-cli/issues) for a full list of proposed features (and known issues).
 
@@ -173,9 +172,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Carl Aquilina - [Email](https://twitter.com/zombyripper) - carl@customcodesign.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Linked In: [https://www.linkedin.com/in/carlaquilina/](https://www.linkedin.com/in/carlaquilina/)
+
+Project Link: [https://github.com/carlaquilina/quiz-cli](https://github.com/carlaquilina/quiz-cli)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
