@@ -122,11 +122,17 @@ $ make quiz
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
-- [x] Add "components" document to easily copy & paste sections of the readme
+- [x] Add Back to Top Links
+- [x] Add Easy Copy & Paste Sections of the Readme
 - [ ] Multi-language Support
   - [ ] Maltese
   - [ ] Italian
+- [ ] GRPC Support(handlers - interfaces)
+- [ ] User Authentication System
+- [ ] Machine Learning to Improve Quiz Difficulty
+- [ ] Randomized Questions
+- [ ] Social Sharing Features
+- [ ] Continous Integrations and Deployment
 
 See the [open issues](https://github.com/carlaquilina/quiz-cli/issues) for a full list of proposed features (and known issues).
 

@@ -1,6 +1,8 @@
 package cmd
 
 import (
+	"fmt"
+
 	"github.com/spf13/cobra"
 )
 
@@ -22,4 +24,7 @@ func Execute() error {
 func init() {
 	rootCmd.PersistentFlags().StringVar(&host, "host", "localhost", "API server hostname or IP address")
 	rootCmd.PersistentFlags().IntVar(&port, "port", 8080, "API server port number")
+	rootCmd.SetHelpFunc(func(cmd *cobra.Command, args []string) {
+		fmt.Println("Help message goes here")
+	})
 }
